@@ -10,26 +10,11 @@ Follow the procedure below to make the settings depending on your environment.
 This is the procedure for building a web server. Follow one of the steps below to build a web server.  
 ※XAMPP is recommended when building an environment with PHP, Apache, and MySQL from the beginning as a development environment.
 
-- [XAMPP construction (development / verification environment) Windows](/install_xampp)  
-→ First of all, if you want to install Extension on your personal computer (Windows version)
-
-- [XAMPP construction (development / verification environment) Mac](/install_xampp_mac)  
-→ First of all, if you want to install Extension on your PC (Mac version)
-
-- [Rental server construction](/install_rental)  
-→ If you want to publish the Exment and easily access it from other members or smartphones
-
-- [Build on Linux](/install_linux)  
-→ Procedure for installing Extension on Linux (CentOS)
-
-- [Build on IIS](/install_iis)  
-→ Procedure when building Exment on IIS
 
 - [Build on AWS](/install_aws)  
 → Procedure when building Exment on AWS
 
-- [Build with Docker](/install_docker)  
-→ Procedure when building Exment with Docker
+
 
 ### File permission settings
 
@@ -61,8 +46,6 @@ Please refer to the following URL for the installation method.
 Exment's database engine requires one of the following:
 
 - MySQL 5.7.8 or higher and less than 8.0.0
-- MariaDB 10.2.7 and above
-- SQL Server 13.0.0 or higher (Currently, automatic backup / restore is not supported)
 
 ### Database environment construction
 - If you have not set up the database server yet, please build the database server.

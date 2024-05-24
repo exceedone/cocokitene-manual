@@ -1,12 +1,13 @@
 # Cocokitene マニュアル
 
 <p align="center">
-<img src="./img/logo/Logo.png" alt="Exment" style="border:none;">
+<img src="./img/logo/Logo.png" alt="Cocokitene" style="border:none;">
 </p>
 
 ## Cocokitene とは
 
 Cocokitene は、ブロックチェーン技術を利用し、総会情報を効率的に保存する Web です。
+
 <!-- <a href="" target="_blank">Cocokitene 公式サイト</a> -->
 
 ## 本マニュアルについて
@@ -16,7 +17,7 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
 
 <!-- ## デモサイト一覧
 
-業務に合わせた、さまざまなデモサイトをご用意しております。  
+業務に合わせた、さまざまなデモサイトをご用意しております。
 <a href="" target="_blank">デモサイト一覧</a>をご確認ください。 -->
 
 <!-- ## 機能・スクリーンショット
@@ -76,14 +77,14 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 <a href="#/ja/first_setting">
                     <div class="tile-inner important-topic">
                         <h5>初期設定</h5>
-                        <p>最初のパーミッションを設定する必要です。</p>
+                        <p>最初のパーミッションや役割を設定する必要です。</p>
                     </div>
                 </a>
             </div>
             <div class="col-sm-6 tile">
                 <a href="#/ja/mailsend_setting">
                     <div class="tile-inner">
-                        <h5>メール送信設定</h5>
+                        <h5>システムメール送信設定</h5>
                         <p>ユーザーにメールを送信する場合の手順です。テストメールの送信手順も記載しています。</p>
                     </div>
                 </a>
@@ -91,17 +92,25 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
         </div>
     </div>
     <div>
-        <h4>3. ログイン設定</h4>
-        <div class="row">
+        <h4>3. システム管理</h4>
+        <div class="row">   
             <div class="col-sm-6 tile">
-                <a href="#/ja/login_setting">
-                    <div class="tile-inner">
-                        <h5>ログイン設定</h5>
-                        <p>Cocokiteneにログインを行う時の、各種ログイン設定を行います。</p>
+                <a href="#/ja/company">
+                    <div class="tile-inner important-topic">
+                        <h5>会社管理</h5>
+                        <p>組織情報の管理を行います。</p>
                     </div>
                 </a>
-            </div>
-        </div>
+            </div>  
+            <div class="col-sm-6 tile">
+                <a href="#/ja/service">
+                    <div class="tile-inner important-topic">
+                        <h5>サービス管理</h5>
+                        <p>組織情報の管理を行います。</p>
+                    </div>
+                </a>
+            </div>           
+        </div>       
     </div>
     </div>
     <div>
@@ -116,6 +125,14 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 </a>
             </div>
             <div class="col-sm-6 tile">
+                <a href="#/ja/login_setting">
+                    <div class="tile-inner">
+                        <h5>ログイン設定</h5>
+                        <p>Cocokiteneにログインを行う時の、各種ログイン設定を行います。</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 tile">
                 <a href="#/ja/user">
                     <div class="tile-inner important-topic">
                         <h5>ユーザー・ログインユーザー管理</h5>
@@ -124,10 +141,10 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 </a>
             </div>
             <div class="col-sm-6 tile">
-                <a href="#/ja/company">
+                <a href="#/ja/user">
                     <div class="tile-inner important-topic">
-                        <h5>会社管理</h5>
-                        <p>組織情報の管理を行います。</p>
+                        <h5>株主管理</h5>
+                        <p>このシステムを使用する株主管理を行います。</p>
                     </div>
                 </a>
             </div>
@@ -149,6 +166,14 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                     <div class="tile-inner important-topic">
                         <h5>取締役総会</h5>
                         <p>総会を開催して役員を招待します。</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 tile">
+                <a href="#/ja/shareholdersmtg">
+                    <div class="tile-inner important-topic">
+                        <h5>総会役割を設定</h5>
+                        <p>総会には異なる参加役割を設定します。</p>
                     </div>
                 </a>
             </div>
