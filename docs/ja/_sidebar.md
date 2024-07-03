@@ -24,8 +24,14 @@
   * [株主総会](/ja/shareholdersmtg)
   * [取締役総会](/ja/boardmtg)
   * [総会役割設定](/ja/paticipant)
+
+* 【6. ブロックチェイン接続】
+  <!-- * [ダッシュボード](/ja/dashboard) -->
+  * [ブロックチェインコンセプト](/ja/blockchain_concept)
+  * [ブロックチェイン設定](/ja/blockchain_setting)
  
-* 【6. その他標準機能】
+* 【7. その他標準機能】
   <!-- * [ダッシュボード](/ja/dashboard) -->
   * [通知テンプレート](/ja/mail)
   * [ログ](/ja/logs)
+  * [チャット](/ja/chat)

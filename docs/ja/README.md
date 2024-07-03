@@ -85,7 +85,7 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 <a href="#/ja/mailsend_setting">
                     <div class="tile-inner">
                         <h5>システムメール送信設定</h5>
-                        <p>ユーザーにメールを送信する場合の手順です。テストメールの送信手順も記載しています。</p>
+                        <p>サーバーメールの設定を記載します</p>
                     </div>
                 </a>
             </div>
@@ -141,7 +141,7 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 </a>
             </div>
             <div class="col-sm-6 tile">
-                <a href="#/ja/user">
+                <a href="#/ja/shareholder">
                     <div class="tile-inner important-topic">
                         <h5>株主管理</h5>
                         <p>このシステムを使用する株主管理を行います。</p>
@@ -170,7 +170,7 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 </a>
             </div>
             <div class="col-sm-6 tile">
-                <a href="#/ja/shareholdersmtg">
+                <a href="#/ja/paticipant">
                     <div class="tile-inner important-topic">
                         <h5>総会役割を設定</h5>
                         <p>総会には異なる参加役割を設定します。</p>
@@ -180,10 +180,31 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
         </div>
     </div>
     <div>
-        <h4>6. その他標準機能</h4>
+        <h4>6. ブロックチェイン上で、データ管理します</h4>
         <div class="row">
             <div class="col-sm-6 tile">
-                <a href="#/ja/permission">
+                <a href="#/ja/blockchain_concept">
+                    <div class="tile-inner important-topic">
+                        <h5>ブロックチェインにデータプッシュのコンセプト</h5>
+                        <p>ブロックチェインとdAppの接続</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 tile">
+                <a href="#/ja/blockchain_setting">
+                    <div class="tile-inner important-topic">
+                        <h5>ブロックチェイン設定</h5>
+                        <p>ネット・クローラーの設定を記載します。</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div>
+        <h4>7. その他標準機能</h4>
+        <div class="row">
+            <div class="col-sm-6 tile">
+                <a href="#/ja/mail">
                     <div class="tile-inner important-topic">
                         <h5>メール通知テンプレート</h5>
                         <p>Cocokiteneにおける、メール送信機能です。</p>
@@ -191,10 +212,18 @@ Cocokitene は、ブロックチェーン技術を利用し、総会情報を効
                 </a>
             </div>
             <div class="col-sm-6 tile">
-                <a href="#/ja/user">
-                    <div class="tile-inner important-topic">
+                <a href="#/ja/logs">
+                    <div class="tile-inner">
                         <h5>ログ出力</h5>
                         <p>システムに管理者やユーザーの動作を管理するため、ログ出力します。</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 tile">
+                <a href="#/ja/chat">
+                    <div class="tile-inner">
+                        <h5>チャット</h5>
+                        <p>チャット機能により、直接コミュニケーションを取り、情報を素早く交換することができます。</p>
                     </div>
                 </a>
             </div>

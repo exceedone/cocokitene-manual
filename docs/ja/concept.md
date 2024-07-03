@@ -9,13 +9,13 @@ Cocokitene のシステムに、簡単に総会を行い、報告または投票
 
 ![データ画面](img/concept/concept2.png)
 
-各議決を投票できます
+リアルタイムで各議決を投票できます
 
 ![データ画面](img/concept/concept3.png)
 
 ![データ画面](img/concept/concept4.png)
 
-総会情報をブロックチェインにプッシュし、保存する
+総会情報を暗号化して、ブロックチェインにプッシュし、保存する
 
 ![データ画面](img/concept/concept5.png)
 
