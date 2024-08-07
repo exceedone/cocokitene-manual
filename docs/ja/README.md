@@ -6,23 +6,23 @@
 
 ## Cocokitene とは
 
-Cocokitene は、ブロックチェーン技術を利用し、総会情報を効率的に保存する Web です。
+Cocokitene は、ブロックチェーン技術を利用し、会議情報を効率的に保存する Web です。
 
-<!-- <a href="" target="_blank">Cocokitene 公式サイト</a> -->
+<a href="https://cocokitene.com/" target="_blank">Cocokitene 公式サイト</a>
 
 ## 本マニュアルについて
 
 本マニュアルでは、常に最新版を想定したマニュアルとなっております。  
 マニュアルに記載の機能やコマンドなどは、バージョンアップにより追加されたものでも、そのバージョンの記載が無い場合があります。あらかじめご了承ください。
 
-<!-- ## デモサイト一覧
+## デモサイト一覧
 
 業務に合わせた、さまざまなデモサイトをご用意しております。
-<a href="" target="_blank">デモサイト一覧</a>をご確認ください。 -->
+<a href="https://demo.cocokitene.com/" target="_blank"></br>デモサイト一覧</a>をご確認ください。
 
-<!-- ## 機能・スクリーンショット
+## 機能・スクリーンショット
 
-<a href="" target="_blank">機能・スクリーンショット</a>をご確認ください。 -->
+<a href="https://cocokitene.com/%E4%B8%BB%E3%81%AA%E6%A9%9F%E8%83%BD/" target="_blank">機能・スクリーンショット</a>をご確認ください。
 
 <!-- ## 更新履歴・リリースノート
 

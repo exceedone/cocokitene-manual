@@ -13,6 +13,9 @@ Webサーバーの構築手順です。以下の手順で、Webサーバーを�
 - [AWSに構築-シングル構成](/ja/install_aws_single)  
 →シングル構成でCocokiteをAWSに構築する場合の手順
 
+- [Linuxによる環境構築](/ja/install_linux.md)  
+→Cocokiteneを公開し、手軽に他のメンバーやスマートフォンからもアクセスを行いたい場合
+
 ## 動作環境
 
 ### 動作確認ブラウザ

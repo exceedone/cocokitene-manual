@@ -12,7 +12,7 @@ http(s)://(Cocokitene のサイト URL)/
 ### システム役割
 
 http(s)://(Cocokitene のサイト URL)/setting-role</br>
-デフォルトパーアドミンが設定されます。
+デフォルトスーパーアドミンが設定します。
 
 ![設定](img/system_setting/first_setting1.png)  
 「編集」ボタンを押下し、カスタムできて、各役割にそれぞれパーミッションをつけます。
@@ -21,8 +21,8 @@ http(s)://(Cocokitene のサイト URL)/setting-role</br>
 ![設定](img/system_setting/first_setting2.png)  
 詳細は[こちら](/ja/permission)を確認してください。
 
-### 総会役割
-各総会の役割を設定します。
+### 会議役割
+各会議の役割を設定します。
 デフォルト役割が設定されていますけど、追加したい場合、「新規作成」ボタンを押下します。
 ![設定](img/system_setting/first_setting3.png)  
 詳細は[こちら](/ja/paticipant)を確認してください。
